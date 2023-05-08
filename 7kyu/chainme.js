@@ -1,3 +1,5 @@
+
+
 // Write a generic function chainer
 
 // Write a generic function chainer that takes a starting value, and an array of functions to execute on it (array of symbols for Ruby).
@@ -24,3 +26,5 @@ function chain(input, fs) {
   
   return result;
 }
+
+// :)
