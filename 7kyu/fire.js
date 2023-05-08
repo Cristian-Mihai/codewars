@@ -10,3 +10,5 @@ function fireFight(s){
   const saved = s.replace(/Fire/g, "~~")
   return saved
 }
+
+// :)
