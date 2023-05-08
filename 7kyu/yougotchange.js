@@ -33,3 +33,6 @@ function giveChange(amount) {
  
    return result;
  }
+
+
+ // :)
