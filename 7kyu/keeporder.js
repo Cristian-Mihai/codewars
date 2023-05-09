@@ -15,3 +15,5 @@ function keepOrder(ary, val) {
   let index = ary.findIndex((elem) => elem >= val);
   return index === -1 ? ary.length : index;
 }
+
+// :)
