@@ -16,3 +16,5 @@ class Ghost {
     this.color = colors[randomIndex];
   }
 }
+
+// :)
