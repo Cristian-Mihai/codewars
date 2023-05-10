@@ -40,3 +40,5 @@ class Labrador extends Dog {
     super(name, age, gender, "Labrador", "Large", master, true);
   }
 }
+
+// :)
