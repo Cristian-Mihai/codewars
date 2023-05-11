@@ -17,3 +17,5 @@ function countSheeps(arrayOfSheep) {
   let numarDeOi = arrayOfSheep.filter(oile => oile == true)
   return numarDeOi.length
 }
+
+// :) beeeh
