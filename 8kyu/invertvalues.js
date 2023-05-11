@@ -17,3 +17,5 @@ function invert(array) {
       }
 })
 }
+
+// :)
