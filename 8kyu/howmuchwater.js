@@ -21,3 +21,5 @@ function howMuchWater(water, load, clothes){
     return +neededWater.toFixed(2)
   }
 }
+
+// :)
