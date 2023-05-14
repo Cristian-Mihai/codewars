@@ -9,3 +9,4 @@ function simpleMultiplication(number) {
     return number * 9
   }
 }
+// :)
