@@ -22,3 +22,5 @@ function sumEvenNumbers(input) {
   }, 0)
   return result
 }
+
+// :)
