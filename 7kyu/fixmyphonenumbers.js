@@ -19,3 +19,5 @@ function isItANum(str) {
   const phoneNumber = +strToNum;
   return strToNum.length === 11 && strToNum[0] == 0 && !isNaN(phoneNumber) ? strToNum : "Not a phone number";
 }
+
+// :)
