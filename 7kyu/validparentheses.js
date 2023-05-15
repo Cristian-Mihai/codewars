@@ -33,3 +33,5 @@ function validParentheses(parenStr) {
   }
   return stack.length === 0;
 }
+
+// :)
