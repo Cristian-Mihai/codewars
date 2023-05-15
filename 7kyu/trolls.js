@@ -18,3 +18,5 @@ function disemvowel(str) {
     }
     return result;
   }
+
+  // :)
