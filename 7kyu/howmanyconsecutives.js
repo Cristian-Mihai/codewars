@@ -12,3 +12,5 @@ function consecutive(arr) {
   }
   return count;
 }
+
+// :)
