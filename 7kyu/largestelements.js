@@ -14,3 +14,5 @@ function largest(n, array) {
   largestNumbers = array.slice(-n)
   return largestNumbers;}
 }
+
+// :)
