@@ -25,3 +25,5 @@ function sumFactorial(arr) {
   }
   return sum;
 }
+
+// :)
