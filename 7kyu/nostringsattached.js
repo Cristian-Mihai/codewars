@@ -25,3 +25,4 @@ function helloWorld() {
   return `${result.slice(0, 5)}, ${result.slice(5)}!`;
 }
 
+// :)
