@@ -14,3 +14,5 @@ function sortByLength (array) {
     return a.length - b.length;
   });
 };
+
+// :)
