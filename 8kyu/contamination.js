@@ -23,3 +23,5 @@ function contamination(text, char){
     return newStr
  }
    }
+
+   // :)
