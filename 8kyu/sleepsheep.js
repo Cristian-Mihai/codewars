@@ -11,3 +11,5 @@ const countSheep = function (num){
   }
   return count
 }
+
+// :)
