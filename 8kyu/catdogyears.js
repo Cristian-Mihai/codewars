@@ -26,3 +26,4 @@ var humanYearsCatYearsDogYears = function(humanYears) {
         const dogYears = humanYears===1?15:humanYears===2?15+9:15+9+(humanYears-2)*5
           return [humanYears,catYears,dogYears]
 }
+// :)
