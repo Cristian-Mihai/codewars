@@ -11,3 +11,5 @@ function repeatStr (n, s) {
   }
     return string;
   }
+
+  // :)
