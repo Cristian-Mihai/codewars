@@ -10,3 +10,5 @@
 function noSpace(x){
   return solved = x.replace(/ /g, "")
   }
+
+  // :)
