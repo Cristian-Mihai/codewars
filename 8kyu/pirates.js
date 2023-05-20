@@ -42,3 +42,5 @@ function Ship(draft,crew) {
  Ship.prototype.isWorthIt = function(){
  return this.draft - (this.crew * 1.5) > 20 ? true:false;
  }
+
+ // :)
