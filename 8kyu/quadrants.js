@@ -36,3 +36,5 @@ function quadrant(x, y) {
     return 4
   }
 }
+
+// :)
