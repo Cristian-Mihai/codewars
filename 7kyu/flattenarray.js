@@ -22,3 +22,4 @@ function flattenAndSort(array) {
   // Sort the flattened array in ascending order
   return flattenedArray.sort((a, b) => a - b);
 }
+// :)
