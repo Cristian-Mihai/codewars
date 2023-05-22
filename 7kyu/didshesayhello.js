@@ -30,3 +30,5 @@ function validateHello(greetings) {
   
   return false;
 }
+
+// :)
