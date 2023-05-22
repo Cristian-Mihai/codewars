@@ -31,3 +31,5 @@ function lastDigit(n, d) {
    return n.toString().slice(-d).split('').map(el => Number(el))
   }
 }
+
+// :)
