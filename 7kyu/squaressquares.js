@@ -21,4 +21,4 @@ function generateShape(integer){
     return square
   }
 
-  // :)
+  // :) :)
