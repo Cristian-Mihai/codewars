@@ -11,4 +11,4 @@ function fireFight(s){
   return saved
 }
 
-// :)
+// :) :)
