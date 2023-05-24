@@ -27,4 +27,3 @@ function chain(input, fs) {
   return result;
 }
 
-// :)
