@@ -18,4 +18,3 @@ function sumOfMinimums(arr) {
   arr.forEach(element => elementeleMinime.push(Math.min(...element)))
   return elementeleMinime.reduce((acc,c) => acc + c, 0)
 }
-// :)
