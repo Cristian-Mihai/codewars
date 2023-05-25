@@ -16,4 +16,3 @@ function keepOrder(ary, val) {
   return index === -1 ? ary.length : index;
 }
 
-// :)
