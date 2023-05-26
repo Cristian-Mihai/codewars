@@ -20,4 +20,3 @@ function isPowerOfTwo(n){
   
 }
 
-// :)
