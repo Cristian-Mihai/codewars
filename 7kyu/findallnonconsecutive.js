@@ -31,5 +31,3 @@ function allNonConsecutive (arr) {
   }
   else{return obj}
 }
-
-// :)
