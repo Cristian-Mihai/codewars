@@ -23,4 +23,3 @@ function sumEvenNumbers(input) {
   return result
 }
 
-// :)
