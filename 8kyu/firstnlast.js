@@ -26,3 +26,6 @@ function array(string) {
  items.pop();
  return items.join(' ');
 }
+
+
+// :)
