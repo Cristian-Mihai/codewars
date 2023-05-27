@@ -2,3 +2,6 @@
 function square (nmb) {
   return nmb * nmb
 }
+
+
+// :)
