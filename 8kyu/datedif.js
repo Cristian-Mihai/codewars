@@ -18,3 +18,5 @@ function periodIsLate(last, today, cycleLength) {
   const diffInDays = diffInMs / (1000 * 60 * 60 * 24);
   return diffInDays > cycleLength;
 }
+
+// :)
