@@ -32,4 +32,3 @@ function trim(str, size) {
   return str;
 }
 
-// :)
