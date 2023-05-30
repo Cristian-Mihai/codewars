@@ -22,3 +22,4 @@ function sixToast(num) {
   } else 
   return num -6; 
 }
+//:)
