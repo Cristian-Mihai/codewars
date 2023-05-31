@@ -14,3 +14,4 @@ function converter (mpg) {
   const kpl = mpg / 4.54609188 * 1.609344
   return Number(kpl.toFixed(2))
 }
+// :)
