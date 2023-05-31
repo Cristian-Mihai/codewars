@@ -25,3 +25,4 @@ const cubeChecker = function(volume, side){
   
    else {return false}
  };
+ // :)
