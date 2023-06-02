@@ -27,3 +27,10 @@ function sumFactorial(arr) {
 }
 
 // :)
+
+// alternative
+
+
+function sumFactorial(arr){
+  return arr.reduce((a,c) => a+[...Array(c+1).keys()].slice(1).reduce((x,y)=>x*y,1),0);
+}
