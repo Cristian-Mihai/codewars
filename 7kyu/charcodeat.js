@@ -16,3 +16,7 @@ function alphabetic(s) {
 }
 
 // :) :) 
+
+// alternative
+
+const alphabetic = s => s === s.split('').sort().join('');
