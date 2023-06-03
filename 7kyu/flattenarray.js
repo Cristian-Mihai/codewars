@@ -23,3 +23,12 @@ function flattenAndSort(array) {
   return flattenedArray.sort((a, b) => a - b);
 }
 // :)
+
+
+// alternative
+
+"use strict";
+
+function flattenAndSort(array) {
+  return [].concat(...array).sort((a,b) => a - b);
+}
