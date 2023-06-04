@@ -18,3 +18,11 @@ function updateLight(current) {
 }
 
 // :)
+
+// alternative solution
+
+function updateLight(current) {
+  
+  return current === 'yellow' ? 'red' : current === 'green' ? 'yellow' : 'green';
+
+}
