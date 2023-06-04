@@ -4,7 +4,7 @@
 // Debugging
 
 function createArray(number){
-  var newArray = [];
+  let newArray = [];
   
   for(var counter = 1; counter <= number; counter++){
     newArray.push(counter);
@@ -14,3 +14,14 @@ function createArray(number){
 }
 
 // :)
+
+// alternative solution
+function createArray(number){
+  let newArray = [];
+  
+  for(let counter = 1; counter <= number; counter++){
+    newArray.push(counter);
+  }
+  
+  return newArray;
+}
