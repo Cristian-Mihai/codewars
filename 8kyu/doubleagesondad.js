@@ -9,3 +9,10 @@ function twiceAsOld(dadYearsOld, sonYearsOld) {
   const doubleAge = dadYearsOld - sonYearsOld * 2
   return doubleAge < 0 ? - doubleAge : doubleAge
  }
+
+ // alternative solution
+
+ function twiceAsOld(dadYearsOld, sonYearsOld) {
+  return Math.abs(dadYearsOld - 2 * sonYearsOld);
+}
+
