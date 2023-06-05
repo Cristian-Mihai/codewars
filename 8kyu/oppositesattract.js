@@ -9,3 +9,9 @@
 function opposite(number) {
   return(-number);
 }
+
+// alternative solution
+
+function opposite(number) {
+  return number * (-1);
+}
