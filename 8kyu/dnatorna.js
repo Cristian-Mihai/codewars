@@ -13,3 +13,17 @@
 function DNAtoRNA(dna){
   return dna.replace(/T/g, 'U');
 }
+
+// alternative solution
+
+function DNAtoRNA(dna) {
+  // create a function which returns an RNA sequence from the given DNA sequence
+  let rna = "";
+  for(let nucleicAcid of dna){
+    if (nucleicAcid == 'G') rna += 'G';
+    if (nucleicAcid == 'A') rna += 'A';
+    if (nucleicAcid == 'C') rna += 'C';
+    if (nucleicAcid == 'T') rna += 'U';
+  }
+  return rna;
+}
