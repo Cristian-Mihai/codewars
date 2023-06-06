@@ -10,3 +10,14 @@
 function checkForFactor (base, factor) {
   return base % factor === 0;
 }
+
+// alternative code
+
+function checkForFactor (base, factor) {
+  const resto = base % factor
+  if(resto === 0 ){
+    return true
+  } else {
+    return false
+  }
+}
