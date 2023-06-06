@@ -5,3 +5,25 @@ class Kata {
     return length * width * height;
   }
 }
+
+// alternative code
+
+let Kata;
+
+Kata = (function() {
+  function Kata() {}
+
+  Kata.getVolumeOfCuboid = function(length, width, height) {
+    let l = parseFloat(length);
+    let w = parseFloat(width);
+    let h = parseFloat(height);
+
+    if(isNaN(l) || isNaN(w) || isNaN(h)) return 0;
+    if(l<=0 || w<=0 ||h <= 0)  return 0;
+    
+    return l*w*h;
+  };
+
+  return Kata;
+
+})();
