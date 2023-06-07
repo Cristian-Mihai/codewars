@@ -6,3 +6,5 @@ function solution(str){
   const reversedArr = strSplit.reverse()
   return reversedArr.join('')
 }
+
+// :)
