@@ -17,3 +17,5 @@ function squareDigits(num){
   const squaredNumber = squared.join('')
   return +squaredNumber
   }
+
+  // :)
